@@ -1,0 +1,11 @@
+site_name: platform-nginx
+site_description: 'Main documentation for platform-nginx'
+repo_url: https://github.com/jayasimha537/nginx
+edit_uri: edit/main/docs
+
+plugins:
+  - techdocs-core
+
+nav:
+  - Getting Started:
+      - Getting Started: 'docs/index.md'
